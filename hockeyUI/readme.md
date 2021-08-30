@@ -1,12 +1,15 @@
-Steps to run:
+Setup environment:
+
     pip install dash
     pip install pandas
     pip install nhlscrapi (maybe this doesn't work. would be sweet if it did)
 
-From project root:
+Steps to run:
+
     python app.py
 
 Sites/Apis that might be useful:
+
     https://nhl-api-explorer.herokuapp.com/
     https://pythonhosted.org/nhlscrapi/
     https://rapidapi.com/api-sports/api/api-hockey/ (i have a free subscription to this for 100 calls/day)
